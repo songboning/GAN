@@ -1,0 +1,38 @@
+时间,缩写,全拼,汉意,说明
+1511,AAE,Adversarial Autoencoders,对抗自编码器,
+1610,ACGAN,Auxiliary Classifier GANs,辅助分类器GAN,合成高分辨率图像
+1703,BEGAN,Boundary Equilibrium GAN,边界平衡GAN,
+1711,BicycleGAN,Toward Multimodal Image-to-Image Translation,,image2image图像风格迁移(多向)
+1702,BSGAN,Boundary-Seeking GAN,边界搜索GAN,
+1611,CAN(pix2pix),Conditional Adversarial Networks,条件对抗网络,pix2pix
+1611,CCGAN,Context-Conditional GAN,上下文条件GAN,图像补全
+1606,CoupledGAN,Coupled Generative Adversarial Networks,,生成多领域复合图像
+1703,CycleGAN,Cycle-Consistent Adversarial Networks,循环一致对抗网络,image2image图像风格迁移
+1411,CGAN,Conditional GAN,条件生成对抗网络,mnist
+1511,DCGAN,Deep Convolutional GAN,深度卷积生成对抗网络,人脸矢量计算
+1703,﻿DiscoGAN,Discover Cross-Domain Relations with GAN,发现跨领域关系,物品种类变换
+1704,DualGAN,﻿Unsupervised Dual Learning GAN,,image2image图像风格迁移(锐化)
+1609,EBGAN,Energy-based GAN,基于能量的GAN,
+1406,GAN,Generative Adversarial Networks,生成对抗网络,基础
+1609,InfoGAN,﻿Information Maximizing GAN,信息最大化GAN,亮度、角度变化
+1705,IRGAN,Information Retrieval GAN,信息检索GAN,[SIGIR2017满分论文]IRGAN:大一统信息检索模型的博弈竞争
+1611,LSGAN,﻿Least Squares,最小二乘GAN,
+1609,SeqGAN,Sequence Generative Adversarial Nets,序列GAN,引入强化学习的策略梯度概念
+1612,SGAN,Stacked Generative Adversarial Networks,堆叠生成对抗网络,文本生成图像
+1609,SRGAN,﻿Super-Resolution GAN,超分辨率GAN,超分辨率
+1711,StarGAN,Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation,,改变表情
+1701,WGAN,Wasserstein GAN,,采用Wasserstein距离度量
+1704,WGAN_GP,Wasserstein GAN Improved,WGAN的提升,
+,,,,
+,,,,
+,,﻿,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,﻿,﻿,
+,,,,
+,,,,
